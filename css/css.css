@@ -1,0 +1,54 @@
+.marron{
+    background-color: #B20A0A;
+}
+
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.active{
+    color:white
+}
+
+a.colormenu {
+    color: white;
+}
+a:hover.nav-link{
+    color: white;
+}
+.navbar-expand-lg .navbar-collapse {
+    justify-content: end;
+}
+
+  
+  .textoinicial{
+    font-size: 30px;
+    
+  }
+  .m20{
+    margin:20px 0px 20px 0px
+  }
+  .formulario{
+    padding: 20px;
+    background-color: #B20A0A;
+  }
+  .titulocontacto{
+    color:white;
+    padding-bottom: 20px;
+  }
+  label.form-label {
+    color: white;
+}
+
+  @media (max-width:1199px){
+    .textoinicial{
+        font-size: 20px;
+        
+      }
+  }
+  @media (max-width:767px){
+    .textoinicial{
+        font-size: 16px;
+        
+      }
+      .imagencita{
+        margin-top: 40px;
+      }
+  }
+  
